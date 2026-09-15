@@ -1,5 +1,5 @@
 # Project Jailbreaking LMMs using Stealth Prompts
-Published by: Jana, Zeinab & irootcat
+Published by: AnjuhBananu, Zeinab & irootcat
 
 Can LLMs be jailbreaked ? Well this research has already been done by AutoDAN, and turns out back in 2024 when these LLMs were first mass scaled they could. 
 However, our question as students who are building upon AutoDAN's research is does it still work in 2026 ?
